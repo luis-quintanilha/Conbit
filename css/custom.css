@@ -41,3 +41,14 @@
 .back-green{
     background-color:green;
 }
+
+.section-heading.space-bottom {
+    margin-bottom: 60px;
+}
+
+h4.subheading {
+    font-size: 24px !important;
+    margin-top: 50px !important;
+    color: #1f3044 !important;
+    text-transform: uppercase !important;
+}
