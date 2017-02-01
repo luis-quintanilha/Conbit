@@ -1,0 +1,43 @@
+
+/*/ CUSTOM /*/
+/*----------------------*/
+
+.logo-img {
+    max-width: 180px;
+    margin-top: -16px;
+}
+
+.faq-button {
+    width: 100%;
+    padding: 10px;
+    margin: 1px 0;
+    text-align: left;
+    background-color: #EEE;
+    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size:18px;
+    color: #2c5687;
+}
+
+.acordeon {
+    width: 100%;
+    padding: 10px;
+    margin: 2px 0 20px;
+    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+}
+
+.admin-button.faq-button {
+    width: 95%;
+}
+
+.status-button.faq-button {
+    width: 5%;
+}
+
+.back-red{
+    background-color:red;
+}
+
+.back-green{
+    background-color:green;
+}
